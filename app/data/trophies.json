@@ -1,392 +1,43 @@
-{
- "game": "Grand Theft Auto VI",
- "platform": "PlayStation 5",
- "list": "the official 55 trophies, 2026-11-18",
- "trophies": [
-  {
-   "id": 1,
-   "name": "Vice Got a Price!",
-   "description": "Congratulations! You're a Leonida Legend.",
-   "grade": "platinum",
-   "guide": "Earn the other 54 trophies."
-  },
-  {
-   "id": 2,
-   "name": "Just Like Paradise",
-   "description": "Complete Gone Fishing.",
-   "grade": "bronze",
-   "guide": "Finish the opening mission, Gone Fishing."
-  },
-  {
-   "id": 3,
-   "name": "Paradise Lost",
-   "description": "Complete Chapter 1.",
-   "grade": "bronze",
-   "guide": "Finish Chapter 1."
-  },
-  {
-   "id": 4,
-   "name": "T**s Ass Drug Money",
-   "description": "Complete Chapter 2.",
-   "grade": "bronze",
-   "guide": "Finish Chapter 2."
-  },
-  {
-   "id": 5,
-   "name": "Vice City, Baby!",
-   "description": "Complete Chapter 3.",
-   "grade": "bronze",
-   "guide": "Finish Chapter 3."
-  },
-  {
-   "id": 6,
-   "name": "Top Of The World, Ma",
-   "description": "Complete Chapter 4.",
-   "grade": "bronze",
-   "guide": "Finish Chapter 4."
-  },
-  {
-   "id": 7,
-   "name": "You Gotta Know When to Get Off",
-   "description": "Complete the final mission.",
-   "grade": "gold",
-   "guide": "Finish the final mission (gold)."
-  },
-  {
-   "id": 8,
-   "name": "Trust",
-   "description": "Complete Breakfast Run.",
-   "grade": "bronze",
-   "guide": "Finish the mission Breakfast Run."
-  },
-  {
-   "id": 9,
-   "name": "Break the Bank",
-   "description": "Complete The Cartel Heist.",
-   "grade": "bronze",
-   "guide": "Finish the mission The Cartel Heist."
-  },
-  {
-   "id": 10,
-   "name": "Family Matters",
-   "description": "Complete Child's Play.",
-   "grade": "bronze",
-   "guide": "Finish the mission Child's Play."
-  },
-  {
-   "id": 11,
-   "name": "DWNFALL",
-   "description": "Complete Headliners.",
-   "grade": "bronze",
-   "guide": "Finish the mission Headliners."
-  },
-  {
-   "id": 12,
-   "name": "Hi-Jacked",
-   "description": "Complete VCIA Takedown.",
-   "grade": "bronze",
-   "guide": "Finish the mission VCIA Takedown."
-  },
-  {
-   "id": 13,
-   "name": "Snow Storm",
-   "description": "Complete Operation Savage Glory.",
-   "grade": "bronze",
-   "guide": "Finish the mission Operation Savage Glory."
-  },
-  {
-   "id": 14,
-   "name": "A Long Road",
-   "description": "Attain 100% Completion.",
-   "grade": "gold",
-   "guide": "Reach 100% completion (gold)."
-  },
-  {
-   "id": 15,
-   "name": "Cunning Stunts",
-   "description": "Complete 250 Stunts.",
-   "grade": "silver",
-   "guide": "Pull off 250 stunts (silver)."
-  },
-  {
-   "id": 16,
-   "name": "Master of None",
-   "description": "Try each type of activity once.",
-   "grade": "bronze",
-   "guide": "Try all 9 activity types once."
-  },
-  {
-   "id": 17,
-   "name": "The Shootist",
-   "description": "Earn a gold medal in all Shooting Range challenges.",
-   "grade": "silver",
-   "guide": "Gold all 42 Shooting Range challenges (silver)."
-  },
-  {
-   "id": 18,
-   "name": "Top Fun",
-   "description": "Win a Top Fun Drone Race at every location.",
-   "grade": "bronze",
-   "guide": "Win a Top Fun drone race at all 14 locations."
-  },
-  {
-   "id": 19,
-   "name": "Earn Cash, Not Kudos",
-   "description": "Win 20 different races.",
-   "grade": "bronze",
-   "guide": "Win 20 different races."
-  },
-  {
-   "id": 20,
-   "name": "Baited My Tackle",
-   "description": "Beat Cal in a fishing challenge.",
-   "grade": "bronze",
-   "guide": "Beat Cal in a fishing challenge."
-  },
-  {
-   "id": 21,
-   "name": "Stick Fiddler",
-   "description": "Complete an arcade game.",
-   "grade": "bronze",
-   "guide": "Finish one arcade game."
-  },
-  {
-   "id": 22,
-   "name": "Road to Rehabilitation",
-   "description": "Complete the final mission for Andy.",
-   "grade": "bronze",
-   "guide": "Finish Andy's last mission."
-  },
-  {
-   "id": 23,
-   "name": "This Was No Boat Accident",
-   "description": "Complete the final mission for Kenton.",
-   "grade": "bronze",
-   "guide": "Finish Kenton's last mission."
-  },
-  {
-   "id": 24,
-   "name": "The Lone Rider",
-   "description": "Complete the final mission for Billy.",
-   "grade": "bronze",
-   "guide": "Finish Billy's last mission."
-  },
-  {
-   "id": 25,
-   "name": "Strangers & Freaks",
-   "description": "Complete 8 mission strands for strangers across the state of Leonida.",
-   "grade": "silver",
-   "guide": "Finish 8 stranger strands (silver)."
-  },
-  {
-   "id": 26,
-   "name": "Supply & Demand",
-   "description": "Complete the final mission for Randy.",
-   "grade": "bronze",
-   "guide": "Finish Randy's last mission."
-  },
-  {
-   "id": 27,
-   "name": "Spin On This!",
-   "description": "Complete the final mission for Tyrone.",
-   "grade": "bronze",
-   "guide": "Finish Tyrone's last mission."
-  },
-  {
-   "id": 28,
-   "name": "Positive Mental Attitude",
-   "description": "Meditate at every spot across Leonida.",
-   "grade": "bronze",
-   "guide": "Meditate at all 18 spots."
-  },
-  {
-   "id": 29,
-   "name": "Fair Game",
-   "description": "Hunt a unique animal for Bret.",
-   "grade": "bronze",
-   "guide": "Hunt the unique animal for Bret."
-  },
-  {
-   "id": 30,
-   "name": "Don't Touch My Deck",
-   "description": "Complete 3 Collectible Card sets.",
-   "grade": "silver",
-   "guide": "Complete 3 collectible card sets (silver)."
-  },
-  {
-   "id": 31,
-   "name": "You WAiNKer!",
-   "description": "WAiNK It at 100 locations.",
-   "grade": "silver",
-   "guide": "WAiNK It at 100 locations (silver)."
-  },
-  {
-   "id": 32,
-   "name": "One Last Thing",
-   "description": "Complete 50 Challenges.",
-   "grade": "bronze",
-   "guide": "Finish 50 challenges."
-  },
-  {
-   "id": 33,
-   "name": "Hot Together",
-   "description": "Lose a 4 star Wanted Level with your partner and escape the heat.",
-   "grade": "bronze",
-   "guide": "Lose a 4-star wanted level with your partner."
-  },
-  {
-   "id": 34,
-   "name": "Retail Therapy",
-   "description": "Rob 3 shops back-to-back with your partner without losing your Wanted Level.",
-   "grade": "bronze",
-   "guide": "Rob 3 shops in a row with your partner, keeping your wanted level."
-  },
-  {
-   "id": 35,
-   "name": "Whip It Good",
-   "description": "Discover 100 vehicles.",
-   "grade": "bronze",
-   "guide": "Discover 100 vehicles."
-  },
-  {
-   "id": 36,
-   "name": "Gunslinger",
-   "description": "Take down 5 enemies in a single use of Combat Focus.",
-   "grade": "bronze",
-   "guide": "Down 5 enemies in one Combat Focus."
-  },
-  {
-   "id": 37,
-   "name": "Catch Me If You Can",
-   "description": "Make an unscheduled departure at VCIA.",
-   "grade": "bronze",
-   "guide": "Leave VCIA in an unscheduled way."
-  },
-  {
-   "id": 38,
-   "name": "Challenging Tank",
-   "description": "Kinda hot in these Rhinos.",
-   "grade": "bronze",
-   "guide": "Deal with Rhinos (tanks)."
-  },
-  {
-   "id": 39,
-   "name": "Sneakthief",
-   "description": "Rob a jewelry store without being detected.",
-   "grade": "bronze",
-   "guide": "Rob a jewelry store without being seen."
-  },
-  {
-   "id": 40,
-   "name": "Maximum Withdrawal",
-   "description": "Rob 5 Bank Vaults and escape.",
-   "grade": "silver",
-   "guide": "Rob 5 bank vaults and escape (silver)."
-  },
-  {
-   "id": 41,
-   "name": "A Classic Blitz Play",
-   "description": "Rob an Armored Truck and escape.",
-   "grade": "bronze",
-   "guide": "Rob an armored truck and escape."
-  },
-  {
-   "id": 42,
-   "name": "The Goodtime State",
-   "description": "Explore all of Leonida.",
-   "grade": "bronze",
-   "guide": "Explore all 52 areas of Leonida."
-  },
-  {
-   "id": 43,
-   "name": "Pest Control",
-   "description": "Rob an Illegal Operation belonging to each gang.",
-   "grade": "bronze",
-   "guide": "Rob one illegal operation of each of the 9 gangs."
-  },
-  {
-   "id": 44,
-   "name": "In The Beginning…",
-   "description": "Enjoy a cocktail with a view on Ocean Beach.",
-   "grade": "bronze",
-   "guide": "Have a cocktail with a view on Ocean Beach."
-  },
-  {
-   "id": 45,
-   "name": "Capital Offense",
-   "description": "Smash your way out of a vehicle showroom in classic style.",
-   "grade": "bronze",
-   "guide": "Smash out of a vehicle showroom in style."
-  },
-  {
-   "id": 46,
-   "name": "Let’s Go Bowling",
-   "description": "Follow-through at the Kolt & Associates' bowling alley.",
-   "grade": "bronze",
-   "guide": "Play bowling at the Kolt & Associates alley."
-  },
-  {
-   "id": 47,
-   "name": "Personal Best",
-   "description": "A partnership with mass appeal.",
-   "grade": "bronze",
-   "guide": "A partnership moment with mass appeal."
-  },
-  {
-   "id": 48,
-   "name": "Actions Speak Louder",
-   "description": "Choices made (for better or worse).",
-   "grade": "bronze",
-   "guide": "Make choices (PSN tracks a count to 500)."
-  },
-  {
-   "id": 49,
-   "name": "Bad Luck, I Guess",
-   "description": "Second time's the charm.",
-   "grade": "bronze",
-   "guide": "Succeed on a second try."
-  },
-  {
-   "id": 50,
-   "name": "The Truth Is Out There",
-   "description": "What the hell just happened?",
-   "grade": "bronze",
-   "guide": "Witness something strange."
-  },
-  {
-   "id": 51,
-   "name": "Ten Pin",
-   "description": "Bowl 'em over with a melee drive-by.",
-   "grade": "bronze",
-   "guide": "Knock someone down with a melee drive-by."
-  },
-  {
-   "id": 52,
-   "name": "Dime on the Dollar",
-   "description": "Earn $250,000 laundering Marked Bills through your contacts.",
-   "grade": "bronze",
-   "guide": "Launder $250,000 of marked bills."
-  },
-  {
-   "id": 53,
-   "name": "Treat Yo Self",
-   "description": "Spend $100,000 across all shops.",
-   "grade": "bronze",
-   "guide": "Spend $100,000 in shops."
-  },
-  {
-   "id": 54,
-   "name": "Little Boxes",
-   "description": "Purchase all garage properties.",
-   "grade": "bronze",
-   "guide": "Buy all 8 garage properties."
-  },
-  {
-   "id": 55,
-   "name": "On the Spot",
-   "description": "Register 10 vehicles to the Scooter Bros app.",
-   "grade": "bronze",
-   "guide": "Register 10 vehicles in the Scooter Bros app."
-  }
- ]
-}
+{"game":"Grand Theft Auto VI","list":"the official 55 trophies, 2026-11-18","note":"Names, descriptions and grades are PlayStation's published text, as listed by Exophase and PSNProfiles. Guides are written for this entry in our own words; each cites its sources. Hidden flags (28 hidden, 27 visible) and counts follow the Exophase / PSNProfiles list as reported by EGamers.io on 18 November 2026. Where no source confirms a method, the guide says so and sticks to what the official description supports.","platform":"PlayStation 5","sources":["Exophase / PSNProfiles — official trophy list (names, descriptions, grades, hidden flags)","EGamers.io — GTA 6 Trophy List: All 55 Trophies And Achievements (18 Nov 2026)","GTABase — GTA 6 trophy guide","PowerPyx — GTA 6 trophy guide","Press-Start — Here's The Full Trophy/Achievement List For Grand Theft Auto 6 (18 Nov 2026)"],"trophies":[{"count":null,"description":"Congratulations! You're a Leonida Legend.","grade":"platinum","guide":"The platinum pops automatically once the other 54 trophies are earned, so there is no separate task here. Work through the roadmap stages in order and this one closes the list for you.","hidden":false,"id":1,"kind":"activities","missable":false,"name":"Vice Got a Price!","sources":["Exophase / PSNProfiles — official list"],"stage":6},{"count":null,"description":"Complete Gone Fishing.","grade":"bronze","guide":"Play the opening mission, Gone Fishing, to the end. It is the first mission of the story and cannot be missed; the trophy pops when the mission completes.","hidden":true,"id":2,"kind":"story","missable":false,"name":"Just Like Paradise","sources":["Exophase / PSNProfiles — official list","EGamers.io — trophy list (18 Nov 2026)"],"stage":1},{"count":null,"description":"Complete Chapter 1.","grade":"bronze","guide":"Finish every mission in Chapter 1. Chapter trophies pop as the story advances, so keep playing the main missions and this one arrives on its own.","hidden":true,"id":3,"kind":"story","missable":false,"name":"Paradise Lost","sources":["Exophase / PSNProfiles — official list","EGamers.io — trophy list (18 Nov 2026)"],"stage":1},{"count":null,"description":"Complete Chapter 2.","grade":"bronze","guide":"Finish every mission in Chapter 2. Both protagonists become playable around this point, which opens up most of the side content, so it is a good moment to start the stranger mission chains too.","hidden":true,"id":4,"kind":"story","missable":false,"name":"T**s Ass Drug Money","sources":["Exophase / PSNProfiles — official list","EGamers.io — trophy list (18 Nov 2026)"],"stage":1},{"count":null,"description":"Complete Chapter 3.","grade":"bronze","guide":"Finish every mission in Chapter 3. Story trophies are unmissable: as long as you keep playing the main missions, the chapter trophy follows.","hidden":true,"id":5,"kind":"story","missable":false,"name":"Vice City, Baby!","sources":["Exophase / PSNProfiles — official list","EGamers.io — trophy list (18 Nov 2026)"],"stage":1},{"count":null,"description":"Complete Chapter 4.","grade":"bronze","guide":"Finish every mission in Chapter 4. The optional bank-vault mission chain that feeds the Maximum Withdrawal trophy also opens in this chapter, so look for it before the story moves on.","hidden":true,"id":6,"kind":"story","missable":false,"name":"Top Of The World, Ma","sources":["Exophase / PSNProfiles — official list","EGamers.io — trophy list (18 Nov 2026)","GTABase"],"stage":1},{"count":null,"description":"Complete the final mission.","grade":"gold","guide":"Finish the final mission of the story. Keep a manual save from just before it: several guides recommend one in case a late choice or a missed side task needs a second look, and there is no mission replay.","hidden":true,"id":7,"kind":"story","missable":false,"name":"You Gotta Know When to Get Off","sources":["Exophase / PSNProfiles — official list","EGamers.io — trophy list (18 Nov 2026)","Output Lag — trophy list"],"stage":1},{"count":null,"description":"Complete Breakfast Run.","grade":"bronze","guide":"Play the mission Breakfast Run through to its end. Named-mission trophies like this one pop when the mission completes and cannot be missed by playing the story.","hidden":true,"id":8,"kind":"story","missable":false,"name":"Trust","sources":["Exophase / PSNProfiles — official list","EGamers.io — trophy list (18 Nov 2026)"],"stage":1},{"count":null,"description":"Complete The Cartel Heist.","grade":"bronze","guide":"Play The Cartel Heist through to its end. It is a story heist mission, so it arrives in the natural course of the campaign.","hidden":true,"id":9,"kind":"story","missable":false,"name":"Break the Bank","sources":["Exophase / PSNProfiles — official list","EGamers.io — trophy list (18 Nov 2026)"],"stage":1},{"count":null,"description":"Complete Child's Play.","grade":"bronze","guide":"Play the mission Child's Play through to its end. Like the other named-mission trophies, it is unmissable if you finish the story.","hidden":true,"id":10,"kind":"story","missable":false,"name":"Family Matters","sources":["Exophase / PSNProfiles — official list","EGamers.io — trophy list (18 Nov 2026)"],"stage":1},{"count":null,"description":"Complete Headliners.","grade":"bronze","guide":"Play the mission Headliners through to its end. The trophy pops on mission completion.","hidden":true,"id":11,"kind":"story","missable":false,"name":"DWNFALL","sources":["Exophase / PSNProfiles — official list","EGamers.io — trophy list (18 Nov 2026)"],"stage":1},{"count":null,"description":"Complete VCIA Takedown.","grade":"bronze","guide":"Play the mission VCIA Takedown through to its end. It takes place at the airport, which is also where the Catch Me If You Can trophy is earned, so the two pair naturally.","hidden":true,"id":12,"kind":"story","missable":false,"name":"Hi-Jacked","sources":["Exophase / PSNProfiles — official list","EGamers.io — trophy list (18 Nov 2026)"],"stage":1},{"count":null,"description":"Complete Operation Savage Glory.","grade":"bronze","guide":"Play the mission Operation Savage Glory through to its end. The trophy pops on mission completion.","hidden":true,"id":13,"kind":"story","missable":false,"name":"Snow Storm","sources":["Exophase / PSNProfiles — official list","EGamers.io — trophy list (18 Nov 2026)"],"stage":1},{"count":null,"description":"Attain 100% Completion.","grade":"gold","guide":"Reach 100% on the in-game completion checklist. PowerPyx puts the checklist at roughly 60% of true completion and says most of it comes from the other trophies, so finish the story, the activities and the collectibles first and use the checklist to mop up what is left. Both GTABase and PowerPyx rank this the hardest trophy in the set.","hidden":false,"id":14,"kind":"activities","missable":false,"name":"A Long Road","sources":["Exophase / PSNProfiles — official list","EGamers.io — trophy list (18 Nov 2026)","PowerPyx","GTABase"],"stage":6},
+{"count":250,"description":"Complete 250 Stunts.","grade":"silver","guide":"Land 250 stunts anywhere in Leonida. EGamers.io reports 397 stunts exist in total and that flying under bridges is the quickest kind, so use a plane or helicopter and chain bridge passes. The 100% checklist asks for 300, so the trophy pops before that target is done.","hidden":false,"id":15,"kind":"activities","missable":false,"name":"Cunning Stunts","sources":["Exophase / PSNProfiles — official list","EGamers.io — trophy list (18 Nov 2026)"],"stage":3},
+{"count":9,"description":"Try each type of activity once.","grade":"bronze","guide":"Try every activity type in the game once. The starter list counts 9 types; work through the in-game activities menu — fishing, races, shooting range, arcade games, bowling, meditation, drone races, stunts and the rest — and tick each one off as you sample it.","hidden":false,"id":16,"kind":"activities","missable":false,"name":"Master of None","sources":["Exophase / PSNProfiles — official list"],"stage":3},
+{"count":42,"description":"Earn a gold medal in all Shooting Range challenges.","grade":"silver","guide":"Earn a gold medal in all 42 Shooting Range challenges. EGamers.io confirms the count of 42; work through the range's challenge list one at a time and repeat any challenge until the gold medal lands.","hidden":false,"id":17,"kind":"activities","missable":false,"name":"The Shootist","sources":["Exophase / PSNProfiles — official list","EGamers.io — trophy list (18 Nov 2026)"],"stage":3},
+{"count":14,"description":"Win a Top Fun Drone Race at every location.","grade":"bronze","guide":"Win a Top Fun drone race at each of the 14 locations. PowerPyx counts 42 races across those 14 spots, so expect several races per location and keep going until every location shows a win.","hidden":false,"id":18,"kind":"activities","missable":false,"name":"Top Fun","sources":["Exophase / PSNProfiles — official list","EGamers.io — trophy list (18 Nov 2026)","PowerPyx"],"stage":3},
+{"count":20,"description":"Win 20 different races.","grade":"bronze","guide":"Win 20 different races across Leonida — each race only counts once, so vary the events instead of repeating one you like. The 100% checklist asks for 30 wins, so this trophy pops on the way there.","hidden":false,"id":19,"kind":"activities","missable":false,"name":"Earn Cash, Not Kudos","sources":["Exophase / PSNProfiles — official list","EGamers.io — trophy list (18 Nov 2026)"],"stage":3},
+{"count":null,"description":"Beat Cal in a fishing challenge.","grade":"bronze","guide":"Take on Cal in a fishing challenge and beat him. Fishing is one of the activities, so learn the casting and reeling rhythm in a casual session first, then challenge Cal.","hidden":false,"id":20,"kind":"activities","missable":false,"name":"Baited My Tackle","sources":["Exophase / PSNProfiles — official list","EGamers.io — trophy list (18 Nov 2026)"],"stage":3},
+{"count":null,"description":"Complete an arcade game.","grade":"bronze","guide":"Find an arcade machine and finish one of its games from start to end. Any arcade game counts, so pick the shortest one you can clear reliably.","hidden":false,"id":21,"kind":"activities","missable":false,"name":"Stick Fiddler","sources":["Exophase / PSNProfiles — official list","EGamers.io — trophy list (18 Nov 2026)"],"stage":3},
+{"count":null,"description":"Complete the final mission for Andy.","grade":"bronze","guide":"Work through Andy's mission strand to its final mission and complete it. Side-character strands unlock as the story advances; one guide warns their windows may be tied to story progress, so start Andy's strand as soon as it appears rather than leaving it to the end.","hidden":true,"id":22,"kind":"story","missable":false,"name":"Road to Rehabilitation","sources":["Exophase / PSNProfiles — official list","EGamers.io — trophy list (18 Nov 2026)","TechWiser (via EGamers.io)"],"stage":2},
+{"count":null,"description":"Complete the final mission for Kenton.","grade":"bronze","guide":"Work through Kenton's mission strand to its final mission and complete it. Start the strand when it unlocks and keep it moving alongside the story.","hidden":true,"id":23,"kind":"story","missable":false,"name":"This Was No Boat Accident","sources":["Exophase / PSNProfiles — official list","EGamers.io — trophy list (18 Nov 2026)"],"stage":2},
+{"count":null,"description":"Complete the final mission for Billy.","grade":"bronze","guide":"Work through Billy's mission strand to its final mission and complete it. Start the strand when it unlocks and keep it moving alongside the story.","hidden":true,"id":24,"kind":"story","missable":false,"name":"The Lone Rider","sources":["Exophase / PSNProfiles — official list","EGamers.io — trophy list (18 Nov 2026)"],"stage":2},
+{"count":8,"description":"Complete 8 mission strands for strangers across the state of Leonida.","grade":"silver","guide":"Complete 8 stranger mission strands across Leonida. Stranger missions appear as icons on the map as you explore; there are more than 8 strands in the game, so pick the ones nearest your route and finish each strand to its end.","hidden":false,"id":25,"kind":"story","missable":false,"name":"Strangers & Freaks","sources":["Exophase / PSNProfiles — official list","EGamers.io — trophy list (18 Nov 2026)"],"stage":2},
+{"count":null,"description":"Complete the final mission for Randy.","grade":"bronze","guide":"Work through Randy's mission strand to its final mission and complete it. Start the strand when it unlocks and keep it moving alongside the story.","hidden":true,"id":26,"kind":"story","missable":false,"name":"Supply & Demand","sources":["Exophase / PSNProfiles — official list","EGamers.io — trophy list (18 Nov 2026)"],"stage":2},
+{"count":null,"description":"Complete the final mission for Tyrone.","grade":"bronze","guide":"Work through Tyrone's mission strand to its final mission and complete it. Start the strand when it unlocks and keep it moving alongside the story.","hidden":true,"id":27,"kind":"story","missable":false,"name":"Spin On This!","sources":["Exophase / PSNProfiles — official list","EGamers.io — trophy list (18 Nov 2026)"],"stage":2},
+{"count":18,"description":"Meditate at every spot across Leonida.","grade":"bronze","guide":"Meditate at every meditation spot in Leonida. GTABase counts 18 spots; the 100% checklist counts 15, and the two sources disagree, so visit every spot you can find and do not stop at 15. This is the one trophy GTABase and PowerPyx both flag as possibly missable: the first meditation, Lucia's on the balcony at Jason's house in Chapter 1, is reported to disappear once that chapter ends, and there is no mission replay — do it in Chapter 1 and keep a manual save at the start of every chapter.","hidden":false,"id":28,"kind":"collectibles","missable":true,"name":"Positive Mental Attitude","sources":["Exophase / PSNProfiles — official list","EGamers.io — trophy list (18 Nov 2026)","GTABase","PowerPyx"],"stage":4},
+{"count":null,"description":"Hunt a unique animal for Bret.","grade":"bronze","guide":"Hunt the unique animal Bret asks for. Which animal it is has not been confirmed by any source yet, so follow Bret's strand when it appears and take the hunt it gives you; the guide will be updated once a source confirms the target.","hidden":true,"id":29,"kind":"story","missable":false,"name":"Fair Game","sources":["Exophase / PSNProfiles — official list","EGamers.io — trophy list (18 Nov 2026)"],"stage":2},
+{"count":3,"description":"Complete 3 Collectible Card sets.","grade":"silver","guide":"Complete 3 collectible card sets. Cards are hidden around Leonida; EGamers.io notes 15 sets exist in total against a 100% checklist that asks for all 15, so 3 sets is an early milestone on the way to a full collection. Pick up cards whenever you pass them rather than hunting them all at once.","hidden":false,"id":30,"kind":"collectibles","missable":false,"name":"Don't Touch My Deck","sources":["Exophase / PSNProfiles — official list","EGamers.io — trophy list (18 Nov 2026)"],"stage":4},
+{"count":100,"description":"WAiNK It at 100 locations.","grade":"silver","guide":"Use WAiNK at 100 locations across Leonida. WAiNK is the in-game phone feature for scanning and tagging places, so open it at landmarks, businesses and viewpoints as you travel; the same habit also feeds the vehicle-discovery trophy.","hidden":false,"id":31,"kind":"collectibles","missable":false,"name":"You WAiNKer!","sources":["Exophase / PSNProfiles — official list","EGamers.io — trophy list (18 Nov 2026)","GTABase"],"stage":4},
+{"count":50,"description":"Complete 50 Challenges.","grade":"bronze","guide":"Complete 50 challenges. Challenges are the small tasks the game tracks across activities, driving, combat and exploration; they accumulate naturally while you play, and the 100% checklist asks for 70, so this trophy pops on the way.","hidden":false,"id":32,"kind":"activities","missable":false,"name":"One Last Thing","sources":["Exophase / PSNProfiles — official list","EGamers.io — trophy list (18 Nov 2026)"],"stage":3},
+{"count":null,"description":"Lose a 4 star Wanted Level with your partner and escape the heat.","grade":"bronze","guide":"Reach a 4-star wanted level while your partner is with you, then lose the cops and escape the heat zone. Both guides point to a train tunnel north of Ambrosia as a good escape route, and bank vault robberies are a reliable way to build the wanted level in the first place.","hidden":false,"id":33,"kind":"activities","missable":false,"name":"Hot Together","sources":["Exophase / PSNProfiles — official list","EGamers.io — trophy list (18 Nov 2026)","GTABase","PowerPyx"],"stage":5},
+{"count":3,"description":"Rob 3 shops back-to-back with your partner without losing your Wanted Level.","grade":"bronze","guide":"Rob three shops in a row with your partner while staying wanted the whole time — do not lose the cops between robberies. GTABase notes the jewelry stores in North Vice City sit close together, which keeps the run short, and says to rob a fourth shop if the trophy does not pop after the third.","hidden":false,"id":34,"kind":"activities","missable":false,"name":"Retail Therapy","sources":["Exophase / PSNProfiles — official list","EGamers.io — trophy list (18 Nov 2026)","GTABase"],"stage":5},
+{"count":100,"description":"Discover 100 vehicles.","grade":"bronze","guide":"Discover 100 different vehicles. GTABase reports you scan them with WAiNK, with no need to drive them, so scan traffic near busy roads as you travel. Pair this with the WAiNK locations trophy and the vehicle count climbs on its own.","hidden":false,"id":35,"kind":"collectibles","missable":false,"name":"Whip It Good","sources":["Exophase / PSNProfiles — official list","EGamers.io — trophy list (18 Nov 2026)","GTABase"],"stage":4},
+{"count":5,"description":"Take down 5 enemies in a single use of Combat Focus.","grade":"bronze","guide":"Take down 5 enemies during one use of Combat Focus. Fill your Focus meter before you start, then trigger it in a busy fight; the guides suggest gang members with an assault rifle, and note that cops, soldiers and civilians do not appear to count.","hidden":false,"id":36,"kind":"activities","missable":false,"name":"Gunslinger","sources":["Exophase / PSNProfiles — official list","EGamers.io — trophy list (18 Nov 2026)","GTABase"],"stage":3},
+{"count":null,"description":"Make an unscheduled departure at VCIA.","grade":"bronze","guide":"Leave Vice City International Airport in an unscheduled way. GTABase reports the method is to steal a docked passenger jet and fly about a kilometre away from the airport — take the jet, get airborne and keep flying until the trophy pops.","hidden":true,"id":37,"kind":"activities","missable":false,"name":"Catch Me If You Can","sources":["Exophase / PSNProfiles — official list","EGamers.io — trophy list (18 Nov 2026)","GTABase"],"stage":3},
+{"count":null,"description":"Kinda hot in these Rhinos.","grade":"bronze","guide":"Get inside a Rhino tank and use it. GTABase reports the method is to steal a tank from Mile Zero Air Station and take out enemies from inside it, so head there, grab a Rhino and start engaging targets.","hidden":true,"id":38,"kind":"activities","missable":false,"name":"Challenging Tank","sources":["Exophase / PSNProfiles — official list","EGamers.io — trophy list (18 Nov 2026)","GTABase"],"stage":3},
+{"count":null,"description":"Rob a jewelry store without being detected.","grade":"bronze","guide":"Rob a jewelry store without anyone spotting you. EGamers.io reports the method: open the store's back door with the Snap Gun, find the safe code, clear out the safe and leave unseen. Plan the route before you go in and move quietly.","hidden":false,"id":39,"kind":"activities","missable":false,"name":"Sneakthief","sources":["Exophase / PSNProfiles — official list","EGamers.io — trophy list (18 Nov 2026)"],"stage":5},
+{"count":5,"description":"Rob 5 Bank Vaults and escape.","grade":"silver","guide":"Rob 5 bank vaults and escape after each one. EGamers.io reports the chain needs the optional Chapter 4 mission 'That's Where The Money Is…', after which you follow a security van into a bank while its vault is open. Expect 4 stars on the escape and keep a fast bike ready.","hidden":false,"id":40,"kind":"activities","missable":false,"name":"Maximum Withdrawal","sources":["Exophase / PSNProfiles — official list","EGamers.io — trophy list (18 Nov 2026)"],"stage":5},
+{"count":null,"description":"Rob an Armored Truck and escape.","grade":"bronze","guide":"Rob an armored truck and escape afterwards. Armored trucks run routes around the state; hit one, take the cash and break line of sight before the wanted level climbs.","hidden":false,"id":41,"kind":"activities","missable":false,"name":"A Classic Blitz Play","sources":["Exophase / PSNProfiles — official list","EGamers.io — trophy list (18 Nov 2026)"],"stage":5},
+{"count":52,"description":"Explore all of Leonida.","grade":"bronze","guide":"Explore all 52 areas of Leonida. EGamers.io reports this means clearing the fog across the whole map, and that flying over the dark patches is the quickest method — take a plane or helicopter and sweep the uncovered regions until the map is clear.","hidden":false,"id":42,"kind":"collectibles","missable":false,"name":"The Goodtime State","sources":["Exophase / PSNProfiles — official list","EGamers.io — trophy list (18 Nov 2026)"],"stage":4},
+{"count":9,"description":"Rob an Illegal Operation belonging to each gang.","grade":"bronze","guide":"Rob one illegal operation belonging to each of the 9 gangs. GTABase counts 9 gangs; work through the gang operations map marker by marker until every gang has been hit once.","hidden":false,"id":43,"kind":"activities","missable":false,"name":"Pest Control","sources":["Exophase / PSNProfiles — official list","EGamers.io — trophy list (18 Nov 2026)","GTABase"],"stage":5},
+{"count":null,"description":"Enjoy a cocktail with a view on Ocean Beach.","grade":"bronze","guide":"Have a cocktail with a view on Ocean Beach. The exact steps are not yet confirmed by any source — PowerPyx marks this trophy as not yet known — so the official description is the only guide for now: find a bar or vendor on Ocean Beach, order a cocktail and enjoy the view.","hidden":true,"id":44,"kind":"activities","missable":false,"name":"In The Beginning…","sources":["Exophase / PSNProfiles — official list","EGamers.io — trophy list (18 Nov 2026)","PowerPyx"],"stage":6},
+{"count":null,"description":"Smash your way out of a vehicle showroom in classic style.","grade":"bronze","guide":"Smash your way out of a vehicle showroom. GTABase thinks this involves crashing a car out through a showroom window, though that is unconfirmed, and PowerPyx marks the trophy as not yet known — so take a car into a showroom and drive it out through the glass.","hidden":true,"id":45,"kind":"activities","missable":false,"name":"Capital Offense","sources":["Exophase / PSNProfiles — official list","EGamers.io — trophy list (18 Nov 2026)","GTABase","PowerPyx"],"stage":6},
+{"count":null,"description":"Follow-through at the Kolt & Associates' bowling alley.","grade":"bronze","guide":"Bowl at the Kolt & Associates bowling alley. EGamers.io lists the trophy as confirmed but notes the wording is unclear, and Output Lag reports the alley is Kingpin Bowling, an illegal operation visited in Chapter 2 — go bowling there and follow through on the lane.","hidden":true,"id":46,"kind":"activities","missable":false,"name":"Let’s Go Bowling","sources":["Exophase / PSNProfiles — official list","EGamers.io — trophy list (18 Nov 2026)","Output Lag — trophy list"],"stage":6},
+{"count":null,"description":"A partnership with mass appeal.","grade":"bronze","guide":"Build the partnership's mass appeal. GTABase reports this means maxing out the Strength attribute for both Jason and Lucia, so train both characters' Strength to maximum.","hidden":true,"id":47,"kind":"activities","missable":false,"name":"Personal Best","sources":["Exophase / PSNProfiles — official list","EGamers.io — trophy list (18 Nov 2026)","GTABase"],"stage":6},
+{"count":500,"description":"Choices made (for better or worse).","grade":"bronze","guide":"Make choices that change your Criminal Profile. GTABase reports the count is 500 actions that affect the profile — a single source, so treat the number as reported rather than confirmed. Play the way the game asks: pick sides, take jobs and make calls, and the count climbs as you go. EGamers.io notes the Criminal Profile is permanent, so check its guide before going on a rampage.","hidden":true,"id":48,"kind":"activities","missable":false,"name":"Actions Speak Louder","sources":["Exophase / PSNProfiles — official list","EGamers.io — trophy list (18 Nov 2026)","GTABase"],"stage":6},
+{"count":null,"description":"Second time's the charm.","grade":"bronze","guide":"Succeed on a second try. No source has confirmed the exact trigger yet — PowerPyx marks this trophy as not yet known — so the official description is the only guide for now: it most likely pops when something you failed the first time succeeds on the retry.","hidden":true,"id":49,"kind":"activities","missable":false,"name":"Bad Luck, I Guess","sources":["Exophase / PSNProfiles — official list","EGamers.io — trophy list (18 Nov 2026)","PowerPyx"],"stage":6},
+{"count":null,"description":"What the hell just happened?","grade":"bronze","guide":"Witness something strange. No source has confirmed the exact trigger yet — PowerPyx marks this trophy as not yet known, and GTABase thinks it refers to a strange event somewhere in Leonida. Keep an eye out for odd encounters while exploring; the trophy pops when you find one.","hidden":true,"id":50,"kind":"activities","missable":false,"name":"The Truth Is Out There","sources":["Exophase / PSNProfiles — official list","EGamers.io — trophy list (18 Nov 2026)","GTABase","PowerPyx"],"stage":6},
+{"count":null,"description":"Bowl 'em over with a melee drive-by.","grade":"bronze","guide":"Knock targets down with a melee drive-by. The exact steps are not yet confirmed by any source — PowerPyx marks this trophy as not yet known — so the official description is the guide: use a melee weapon from a moving vehicle to bowl targets over.","hidden":true,"id":51,"kind":"activities","missable":false,"name":"Ten Pin","sources":["Exophase / PSNProfiles — official list","EGamers.io — trophy list (18 Nov 2026)","PowerPyx"],"stage":6},
+{"count":250000,"description":"Earn $250,000 laundering Marked Bills through your contacts.","grade":"bronze","guide":"Launder a total of $250,000 in Marked Bills through your contacts. GTABase reports the bills are laundered through fences, one of which pays the most, and that the total grows during the 100% robberies — keep laundering after every robbery and the total climbs.","hidden":false,"id":52,"kind":"activities","missable":false,"name":"Dime on the Dollar","sources":["Exophase / PSNProfiles — official list","EGamers.io — trophy list (18 Nov 2026)","GTABase"],"stage":6},
+{"count":100000,"description":"Spend $100,000 across all shops.","grade":"bronze","guide":"Spend $100,000 across all shops in Leonida. Any purchase counts, so buy weapons, clothes, vehicles and supplies as you play; the total is cumulative and the trophy pops once your spending crosses the line.","hidden":false,"id":53,"kind":"activities","missable":false,"name":"Treat Yo Self","sources":["Exophase / PSNProfiles — official list","EGamers.io — trophy list (18 Nov 2026)"],"stage":6},
+{"count":8,"description":"Purchase all garage properties.","grade":"bronze","guide":"Buy all 8 garage properties. EGamers.io reports they are sold through the Vice City Real Estate app for around $160,000 in total, and that the 4 story garages do not count — buy the 8 purchasable ones through the app.","hidden":false,"id":54,"kind":"collectibles","missable":false,"name":"Little Boxes","sources":["Exophase / PSNProfiles — official list","EGamers.io — trophy list (18 Nov 2026)"],"stage":4},
+{"count":10,"description":"Register 10 vehicles to the Scooter Bros app.","grade":"bronze","guide":"Register 10 vehicles to the Scooter Bros app. Find vehicles you like, open the Scooter Bros app and register each one until the count reaches 10.","hidden":false,"id":55,"kind":"collectibles","missable":false,"name":"On the Spot","sources":["Exophase / PSNProfiles — official list","EGamers.io — trophy list (18 Nov 2026)"],"stage":4}
+]} 

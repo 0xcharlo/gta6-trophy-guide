@@ -1,5 +1,1 @@
-[
-  { "file": "1-checklist.jpg", "path": "/", "viewport": { "width": 1280, "height": 800 } },
-  { "file": "2-silver.jpg", "path": "/", "grade": "silver", "viewport": { "width": 1280, "height": 800 } },
-  { "file": "3-bronze.jpg", "path": "/", "grade": "bronze", "scroll": 1400, "viewport": { "width": 1280, "height": 800 } }
-]
+[{"file":"1-cover.jpg","note":"Checklist with the Positive Mental Attitude guide open in the detail panel, progress bar and filters visible. Tick 2-3 trophies first so progress shows.","path":"/?select=28","viewport":{"height":800,"width":1280}},{"file":"2-roadmap.jpg","note":"Roadmap tab: six stages plus the missable-trophies box.","path":"/?view=roadmap","viewport":{"height":800,"width":1280}},{"file":"3-spoiler.jpg","note":"Spoiler setting on: unearned story trophies masked as 'Hidden story trophy'.","path":"/?select=3&spoiler=on","viewport":{"height":800,"width":1280}},{"file":"4-filters.jpg","note":"Missable filter: exactly one trophy (Positive Mental Attitude).","path":"/?filter=missable&select=28","viewport":{"height":800,"width":1280}}]
